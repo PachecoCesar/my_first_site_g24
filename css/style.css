@@ -1,0 +1,16 @@
+.jumbotron{
+  background-image: url(../img/sand.jpg);background-size: cover; background-position: center center; color: white;
+}
+.jumbotron h1{text-shadow: 2px 2px #000000}
+.jumbotron p {text-shadow: 1px 1px #000000}
+.jumbotron {margin-bottom: }
+.card img{max-height: 275px}
+.container-fluid { margin-bottom: 30px}
+.carousel img{max-height: 500px}
+.carousel p{text-shadow: 1px 1px #000000}
+.carousel h2{text-shadow: 2px 2px #000000;color: white}
+.bd-example { margin: 30px}
+h2{text-align: center; font-size: 3em; color: grey}
+.jefe{max-width: 275px;margin-left: 18%; margin-top: 10%}
+button {float: left;}
+.cosa { margin-top: 30px; margin-bottom: 20px; margin-left: 30}
